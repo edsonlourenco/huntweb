@@ -1,0 +1,2 @@
+https://rocketseat-node.herokuapp.com/api
+https://rocketseat-node.herokuapp.com/api/products
